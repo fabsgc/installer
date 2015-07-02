@@ -1,7 +1,0 @@
-#!/usr/bin/env php
-<?php
-	echo "\n##############################################\n";
-	echo "#           GCSYSTEM INSTALLATION            #\n";
-	echo "##############################################\n\n";
-	exec("win.bat");
-?>

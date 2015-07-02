@@ -1,0 +1,13 @@
+#!/usr/bin/env php
+<?php
+	echo "\n##############################################\n";
+	echo "#           GCSYSTEM INSTALLATION            #\n";
+	echo "##############################################\n\n";
+	exec('git clone https://github.com/fabsgc/gcsystem.git');
+	chdir('gcsystem');
+	exec('composer install');	
+
+	echo "\n##############################################\n";
+	echo "#      YOUR APPLICATION IS NOW READY !       #\n";
+	echo "##############################################\n\n";
+?>
