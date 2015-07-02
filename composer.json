@@ -13,7 +13,7 @@
 		}
 	},
 	"bin": [
-        "gcsystem"
+        "gcsystem-install"
     ],
 	"minimum-stability": "dev"
 }
