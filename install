@@ -1,0 +1,4 @@
+<?php
+	exec("git clone https://github.com/fabsgc/gcsystem.git");
+	exec('composer install');
+?>
