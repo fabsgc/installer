@@ -1,6 +1,6 @@
 {
 	"name": "gcsystem/installer",
-	"description": "GCsystem Framework install",
+	"description": "GCsystem Framework installer",
 	"keywords": ["framework", "gcsystem"],
 	"license": "MIT",
 	"type": "project",
